@@ -30,11 +30,11 @@ A Grocery Store Management System is an SQL-based project that manages products,
     •  Use of joins ,constraints, and aggregate function
     
  ##  📊SQL Concept Used
-    Primary Key and Foreign Key
-    Normalization
-    Joins(INNER,LEFT)
-    Aggregate Functions(SUM, COUNT,AVG)
-    Constraints(NOT NULL,UNIQUE)
+    * Primary Key and Foreign Key
+    * Normalization
+    * Joins(INNER,LEFT)
+    * Aggregate Functions(SUM, COUNT,AVG)
+    * Constraints(NOT NULL,UNIQUE)
 
  ## 📌USe Case
    This project is suitable for BCA / BSc IT / Computer Science students learning database management systems and SQL.
