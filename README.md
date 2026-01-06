@@ -1,12 +1,12 @@
-# SQl-Project
+# SQL-Project
 A Grocery Store Management System is an SQL-based project that manages products,customers,suppliers,sales and inventory.It uses relational tables,keys,and queries to handle daily grocery operations efficiently and generate useful reports for stock and sales.
 
 ## 🎯OBJECTIVES:
-    1. To design a normalized rocery store database.
-    2. To manage product stock and inventory.
-    3. To record customer purchases and billing details.
-    4. To track supplier and purchase information 
-    5. To generate useful business reports using SQL quaries.
+    - To design a normalized rocery store database.
+    - To manage product stock and inventory.
+    - To record customer purchases and billing details.
+    - To track supplier and purchase information 
+    - To generate useful business reports using SQL quaries.
 
 ## 🧱DATABASE MODULES
     1. Supplier Table     : Stors supplier details and purchase information.
@@ -23,11 +23,11 @@ A Grocery Store Management System is an SQL-based project that manages products,
      * Tools     : MySQL Workbenches
 
  ## 🔑Key Features
-    •  Create ,read, update, and delete (CRUD) operations
-    •  Inventory and stock management
-    •  Customer order tracking
-    •  Supplier and employee ,management 
-    •  Use of joins ,constraints, and aggregate function
+    - Create ,read, update, and delete (CRUD) operations
+    - Inventory and stock management
+    - Customer order tracking
+    - Supplier and employee ,management 
+    - Use of joins ,constraints, and aggregate function
     
  ##  📊SQL Concept Used
     * Primary Key and Foreign Key
