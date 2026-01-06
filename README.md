@@ -9,18 +9,18 @@ A Grocery Store Management System is an SQL-based project that manages products,
 - To generate useful business reports using SQL quaries.
 
 ## 🧱DATABASE MODULES
-1. Supplier Table     : Stors supplier details and purchase information.
-2. Categories Table   : Manages product categories and classification.
-3. Employees Table    : Maintain employee records and roles
-4. Customer Table     : Store customer information and contact details
-5. Product Table      : Manages product details,prices and stock.
-6. Orders Table       : Records customer orders and dates.
-7. OrederDetails Table: Stores items included in each order with quantity and price.
+1. **Supplier Table**     : Stors supplier details and purchase information.
+2. **Categories Table**   : Manages product categories and classification.
+3. **Employees Table**    : Maintain employee records and roles
+4. **Customer Table**     : Store customer information and contact details
+5. **Product Table**      : Manages product details,prices and stock.
+6. **Orders Table**       : Records customer orders and dates.
+7. **OrederDetails Table**: Stores items included in each order with quantity and price.
 
  ## 🔨Technologies Used
- * Database  : MySQL
- * Language  : SQL
- * Tools     : MySQL Workbenches
+ * **Database**  : MySQL
+ * **Language**  : SQL
+ * **Tools**    : MySQL Workbenches
 
  ## 🔑Key Features
  
